@@ -1,0 +1,10 @@
+node_modules/
+.env
+config.env
+.git/
+.gitignore
+README.md
+sample-data.js
+*.log
+.DS_Store
+Thumbs.db
